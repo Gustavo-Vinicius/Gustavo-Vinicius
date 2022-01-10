@@ -6,7 +6,7 @@
 <div align="center">  
   <a href="https://github.com/Gustavo-Vinicius">   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavo-Vinicius&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Vinicius&layout=compact&langs_count=7&theme=dark"/> 
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Vinicius&layout=compact&langs_count=7&theme=dark"/> 
  </div> 
 <div style="d   isplay: inline_blo  ck"><br>    
      <img align="center" alt="Csharp" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> </div>

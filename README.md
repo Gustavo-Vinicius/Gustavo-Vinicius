@@ -1,5 +1,4 @@
  ## Olá, eu sou o  Gustavo Vinicius
-
  -🔭  Hoje Trablho com  Back-end
  -🌱 Estudando a Linguaguem Csharp   
  

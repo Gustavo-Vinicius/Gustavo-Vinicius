@@ -1,6 +1,6 @@
  ## Olá, eu sou o  Gustavo Vinicius
    -🔭  Hoje Trablho com  Back-end
- -🌱 Estudando a Linguaguem Csharp 
+ -🌱 Estudando a Linguaguem Csharp   
  
 <div align="center">  
   <a href="https://github.com/Gustavo-Vinicius">   

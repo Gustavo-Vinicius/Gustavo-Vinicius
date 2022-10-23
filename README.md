@@ -1,7 +1,9 @@
  ## Olá, eu sou o  Gustavo Vinicius
  -🔭  Hoje Trablho com  Back-end
  -🌱 Estudando a Linguaguem Csharp   
- 
+ <div align="center">
+ <img  alt="HTML" height="200" width="720" src="https://user-images.githubusercontent.com/92996271/197403890-238388ac-80b5-4657-9553-48fc6d1682c0.png">
+ </div>
 <div align="center">  
   <a href="https://github.com/Gustavo-Vinicius">   
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Gustavo-Vinicius&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>  

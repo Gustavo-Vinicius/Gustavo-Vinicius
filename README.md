@@ -8,9 +8,9 @@
  </div> 
 <div style="display: inline_blo  ck"><br>    
 <img alt="Csharp" height="60" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
-<img alt=".NET" height="60" width="30" src="<img alt="Csharp" height="60" width="30 src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg"/>  
+<img alt=".NET" height="60" width="30" src="<img alt="Csharp" height="60" width="30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>  
 <img alt="SqlServer" height="60" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
-<img alt="Postgres" height="60" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
+<img alt="Postgres" height="60" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"/>
 </div>  
  
   <div>  

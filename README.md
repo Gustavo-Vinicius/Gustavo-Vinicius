@@ -12,7 +12,7 @@
 
 ## My Skills
 
-[![](https://skillicons.dev/icons?i=cs,dotnet,nodejs,typescript,postgres,mongodb,rabbitmq,kafka,kubernetes,docker&theme=dark)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=cs,dotnet,nodejs,typescript,postgres,mongodb,rabbitmq,kafka,kubernetes,docker,git,azure&theme=dark)](https://skillicons.dev)
 
 ## Contacts:
 

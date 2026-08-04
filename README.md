@@ -4,7 +4,7 @@
 <br/>
 
 ```text
-💼 Software Developer II @ Localiza&Co
+💼 Software Developer
 🎓 Software Engineering @ UNOPAR
 📍 Araguaína, Tocantins, Brazil
 🌐 portifoliogustavovinicius.netlify.app

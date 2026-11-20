@@ -4,10 +4,10 @@
 <br/>
 
 ```text
-💼 Software Developer
-🎓 Software Engineering @ UNOPAR
-📍 Araguaína, Tocantins, Brazil
-🌐 portifoliogustavovinicius.netlify.app
+Senior Backend Engineer
+Software Engineering @ UNOPAR
+Araguaína, Tocantins, Brazil
+portifoliogustavovinicius.netlify.app
 ```
 
 <br/>
